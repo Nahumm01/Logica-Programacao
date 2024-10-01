@@ -1,5 +1,3 @@
-package CalculaIdade;
-
 public class CalculaIdade {
 	public static void main(String[] args) {
 		int firstAge = 1992;
